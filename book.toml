@@ -7,3 +7,5 @@ multilingual = false
 src = "src"
 
 [output.html]
+mathjax-support = true
+cname = "introduction.kss-pc.club"

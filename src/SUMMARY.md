@@ -7,5 +7,4 @@
   - [競技プログラミング](./contents/competitive.md)
   - [ゲーム制作](./contents/game.md)
 - [受賞歴](./achievement.md)
-- [活動日時/時刻/場所](./detail.md)
 - [おわりに](./end.md)
