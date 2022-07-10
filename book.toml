@@ -1,6 +1,9 @@
 [book]
-authors = ["eno1220"]
-language = "en"
+title = "KSS PC Club - Club Introduction"
+author = "KSS-PC-Club"
+description = "古河中等教育学校パソコン部の2022年度部活動紹介です"
+language = "ja"
 multilingual = false
 src = "src"
-title = "KSS PC Club - Club Introduction"
+
+[output.html]
