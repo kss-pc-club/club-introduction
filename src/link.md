@@ -18,7 +18,7 @@
 
 ### [Github](https://github.com/kss-pc-club)
 
-![Github-screenshot](./images/Github-screenshot.png)
+![Github-screenshot](./images/GitHub-screenshot.png)
 
 公式 web サイトの項でも紹介した通り、部活内で作成したコードを共有、またインターネット上に公開するために運営しています。
 一部の制作物のコードが閲覧できるのようになっているので、興味のある方はぜひご覧ください。
