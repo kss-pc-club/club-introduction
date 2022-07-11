@@ -7,5 +7,6 @@ multilingual = false
 src = "src"
 
 [output.html]
+additional-css= ["src/index.css"]
 mathjax-support = true
 cname = "introduction.kss-pc.club"
