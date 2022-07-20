@@ -1,6 +1,7 @@
 # Summary
 
 - [はじめに](./forward.md)
+- [部長挨拶](./admin.md)
 - [リンク](./link.md)
 - [活動内容](./about.md)
   - [Web 制作](./contents/web.md)
