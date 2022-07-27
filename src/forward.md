@@ -10,6 +10,8 @@
 
 2022/7/27 追記
 
-オープンスクールの部活動紹介時に使用したプレゼンテーションへのリンクを追加しました。ぜひご覧ください。
+オープンスクールの部活動紹介時に使用したプレゼンテーション/動画へのリンクを追加しました。ぜひご覧ください。
 
-[こちらからご覧ください](https://www.canva.com/design/DAFHlbigO8A/djlQqTZ6q4eEsBaoV-dTzQ/view?utm_content=DAFHlbigO8A&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
+スライドは[こちら](https://www.canva.com/design/DAFHlbigO8A/djlQqTZ6q4eEsBaoV-dTzQ/view?utm_content=DAFHlbigO8A&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
+
+動画は[こちら](https://youtu.be/E8r9CUjQugI)
