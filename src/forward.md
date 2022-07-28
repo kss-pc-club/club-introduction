@@ -14,4 +14,4 @@
 
 スライドは[こちら](https://www.canva.com/design/DAFHlbigO8A/djlQqTZ6q4eEsBaoV-dTzQ/view?utm_content=DAFHlbigO8A&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
 
-動画は[こちら](https://youtu.be/E8r9CUjQugI)
+動画は[こちら](https://s.kss-pc.club/openschool-movie)
